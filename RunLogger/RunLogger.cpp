@@ -160,7 +160,7 @@ public:
 class Menu
 {
 private:
-	vector<Person> persons; //vector to hold all the persons
+	vector<Person> persons; //vector to hold all the persons // composition (sort of)
 	bool keepMenuGoing = true;
 	//function to print person record
 	void printPersonVector()
