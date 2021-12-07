@@ -1,0 +1,14 @@
+Simon Jones
+31
+56.000000 90 50    Road
+8.000000 50 45   Road
+10.000000 60 56   Track
+END_RECORD
+John Smith
+40
+30.000000 100 10    Road
+END_RECORD
+Rachel Jones
+30
+5.000000 30 50   Running Track
+END_RECORD
